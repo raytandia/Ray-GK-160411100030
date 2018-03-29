@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1521688931 source:c:\users\acer aspire\documents\aaa\main.cpp
+1522307190 source:c:\users\acer aspire\documents\praktikum grafkom\modul 2\modul 2\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
@@ -218,9 +218,4 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1521688931 source:c:\users\acer aspire\documents\praktikum grafkom\modul 1\main.cpp
-	<windows.h>
-	<GLUT/glut.h>
-	<GL/glut.h>
 

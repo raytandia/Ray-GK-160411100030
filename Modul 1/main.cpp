@@ -19,14 +19,7 @@ glVertex2f(3.0,-9.0);
 
 
 glEnd();
-glBegin(GL_LINE_LOOP);
-glVertex2f(-7,7);
-glVertex2f(-7,4);
-glVertex2f(-6,4);
-glVertex2d(-6,8);
-glVertex2d(-7,8);
-glVertex2d(-8,7);
-glEnd();
+
 glBegin(GL_LINE_LOOP);
 glVertex2f(0.8,-0.8);
 glVertex2f(-0.8,-0.8);
