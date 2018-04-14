@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1522827560 source:d:\dokumen\kuliah\grafkom\data codeblox\p3_1\main.cpp
+1523600029 source:d:\dokumen\kuliah\grafkom\data codeblox\p4_5\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
-	<Math.h>
+	<math.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -223,15 +223,9 @@
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
-1522828250 source:e:\semester 4\grafika komputer\grafkom\p3_1\main.cpp
+1523600029 source:c:\users\acer aspire\documents\praktikum grafkom\modul 4\p4_5\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
-	<Math.h>
-
-1523349671 source:c:\users\acer aspire\documents\praktikum grafkom\modul 3\p3_1\main.cpp
-	<windows.h>
-	<GLUT/glut.h>
-	<GL/glut.h>
-	<Math.h>
+	<math.h>
 

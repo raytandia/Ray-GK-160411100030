@@ -32,7 +32,7 @@ void display(void)
     for(t = -1.0; t<=1.0; t+=0.05)
     {
         /* x(t) = 0.5 - t; y(t) = 1 + 2t */
-        glVertex3f (0.5 + -1*t, 1 + 2*t,0.0);
+        glVertex3f (0.5 + -1*t, 1 + 2*t,0);
     }
     glEnd();
 
